@@ -1,0 +1,16 @@
+{% comment %} SUBIECT6 {% endcomment %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cursurile Studentului</title>
+</head>
+<body>
+<h1>Cursurile lui {{ student.nume }} {{ student.prenume }}</h1>
+<ul>
+    {% for curs in cursuri %}
+    <li>{{ curs.denumire }} - {{ curs.numar_credite }} credite</li>
+    {% endfor %}
+</ul>
+</body>
+</html>

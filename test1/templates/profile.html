@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profilul Utilizatorului</title>
+</head>
+<body>
+    <h1>Profilul Utilizatorului</h1>
+    <p>Nume de utilizator: {{ user.username }}</p>
+    <p>Email: {{ user.email }}</p>
+    <p>Număr de telefon: {{ user.phone_number }}</p>
+    <p>Adresă: {{ user.address }}</p>
+    <p>Data nașterii: {{ user.birth_date }}</p>
+    <p>Tip de cont: {{ user.account_type }}</p>
+    <p>Categorie preferată: {{ user.favorite_category }}</p>
+    <a href="{% url 'change_password' %}">Schimbă parola</a>
+    <a href="{% url 'logout' %}">Logout</a>
+</body>
+</html>

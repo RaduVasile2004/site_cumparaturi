@@ -1,0 +1,12 @@
+WARNING 2024-12-28 18:04:00,928 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:04:00,930 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+WARNING 2024-12-28 18:05:38,256 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:05:38,259 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+WARNING 2024-12-28 18:06:10,754 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:06:10,754 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+WARNING 2024-12-28 18:09:06,123 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:09:06,123 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+WARNING 2024-12-28 18:09:19,653 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:09:19,654 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+WARNING 2024-12-28 18:11:40,981 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:11:40,981 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416

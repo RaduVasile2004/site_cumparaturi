@@ -1,0 +1,17 @@
+<!-- add_product.html -->
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adăugare produs</title>
+</head>
+<body>
+    <h1>Adăugare produs</h1>
+    <form method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Adaugă produs</button>
+    </form>
+</body>
+</html>

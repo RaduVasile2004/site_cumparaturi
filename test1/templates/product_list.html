@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product List</title>
+</head>
+<body>
+    <h1>Filter Products</h1>
+    <form method="get">
+        {{ form.as_p }}
+        <button type="submit">Filter</button>
+    </form>
+
+    <h2>Products</h2>
+    <ul>
+        {% for product in products %}
+            <li>
+                <strong>{{ product.name }}</strong>: {{ product.category }} - ${{ product.price }} 
+                {% if product.stock > 0 %} (In Stock) {% else %} (Out of Stock) {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

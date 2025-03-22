@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ titlu|default:"Eroare 403" }}</title>
+</head>
+<body>
+    <h1>{{ titlu|default:"Eroare 403" }}</h1>
+    <p>{{ mesaj_personalizat|default:"Nu aveți acces la această resursă." }}</p>
+    <p>Salut {{ request.user.username|default:"preastimate anonim" }}</p>
+</body>
+</html>

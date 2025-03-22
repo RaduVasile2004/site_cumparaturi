@@ -1,0 +1,18 @@
+{% comment %} SUBIECT5 {% endcomment %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista Studentilor</title>
+</head>
+<body>
+<h1>Lista Studentilor</h1>
+<ul>
+    {% for student in students %}
+    <li>
+        {{ student.nume }} {{ student.prenume }} 
+    </li>
+    {% endfor %}
+</ul>
+</body>
+</html>

@@ -1,0 +1,98 @@
+INFO 2024-12-28 15:52:26,535 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 15:54:28,201 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 15:54:28,978 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 15:54:37,294 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 15:54:37,925 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 15:55:07,820 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 15:55:08,401 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 15:55:43,406 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 15:55:44,050 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 15:55:51,739 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11551
+INFO 2024-12-28 15:56:00,868 basehttp "POST /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 9998
+INFO 2024-12-28 15:56:02,347 basehttp "POST /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 302 0
+INFO 2024-12-28 15:56:02,413 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11360
+INFO 2024-12-28 15:56:02,477 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 15:56:12,963 basehttp "GET /aplicatie_exemplu/register/ HTTP/1.1" 200 8460
+INFO 2024-12-28 15:56:53,568 views Utilizatorul test a fost înregistrat cu succes.
+INFO 2024-12-28 15:56:55,439 basehttp "POST /aplicatie_exemplu/register/ HTTP/1.1" 200 120
+INFO 2024-12-28 15:57:56,542 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11559
+INFO 2024-12-28 15:57:56,707 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 15:57:58,299 basehttp "GET /admin/aplicatie_exemplu/customuser/10/change/ HTTP/1.1" 200 29547
+INFO 2024-12-28 15:57:58,366 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 15:58:09,003 basehttp "GET /aplicatie_exemplu/register/ HTTP/1.1" 200 8460
+INFO 2024-12-28 15:58:15,675 basehttp "GET /aplicatie_exemplu/confirma_mail/0a6e6ac20a7d4c87b057d88f5a6a7dc2 HTTP/1.1" 301 0
+INFO 2024-12-28 15:58:16,020 basehttp "GET /aplicatie_exemplu/confirma_mail/0a6e6ac20a7d4c87b057d88f5a6a7dc2/ HTTP/1.1" 200 46
+INFO 2024-12-28 17:52:54,923 autoreload D:\DAWDJ\test1\aplicatie_exemplu\urls.py changed, reloading.
+INFO 2024-12-28 17:52:55,690 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 17:53:31,725 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 17:53:32,349 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 17:54:11,478 basehttp "GET /aplicatie_exemplu/login/ HTTP/1.1" 200 1034
+INFO 2024-12-28 17:54:14,188 basehttp "POST /aplicatie_exemplu/login/ HTTP/1.1" 200 1192
+INFO 2024-12-28 17:58:12,871 basehttp "POST /admin/logout/ HTTP/1.1" 200 3553
+INFO 2024-12-28 17:58:16,224 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-12-28 17:58:16,265 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+INFO 2024-12-28 17:58:23,827 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4318
+INFO 2024-12-28 17:58:34,204 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-12-28 17:58:34,272 basehttp "GET /admin/ HTTP/1.1" 200 13034
+INFO 2024-12-28 17:58:42,632 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11559
+INFO 2024-12-28 17:58:42,698 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 17:58:44,424 basehttp "GET /admin/aplicatie_exemplu/customuser/10/change/ HTTP/1.1" 200 29514
+INFO 2024-12-28 17:58:44,494 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 18:01:41,624 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 18:01:42,273 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 18:02:27,453 autoreload D:\DAWDJ\test1\aplicatie_exemplu\urls.py changed, reloading.
+INFO 2024-12-28 18:02:28,123 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 18:02:50,081 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11559
+INFO 2024-12-28 18:02:51,731 basehttp "GET /admin/aplicatie_exemplu/customuser/1/change/ HTTP/1.1" 200 29471
+INFO 2024-12-28 18:02:51,898 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 18:03:04,850 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11559
+INFO 2024-12-28 18:03:23,571 basehttp "POST /aplicatie_exemplu/login/ HTTP/1.1" 200 1047
+INFO 2024-12-28 18:03:36,158 basehttp "POST /aplicatie_exemplu/login/ HTTP/1.1" 200 1055
+INFO 2024-12-28 18:03:50,320 views Utilizatorul test s-a autentificat cu succes.
+INFO 2024-12-28 18:03:50,322 basehttp "POST /aplicatie_exemplu/login/ HTTP/1.1" 302 0
+INFO 2024-12-28 18:03:50,386 basehttp "GET /aplicatie_exemplu/profile/ HTTP/1.1" 200 567
+INFO 2024-12-28 18:04:00,865 basehttp "GET /aplicatie_exemplu/restricted HTTP/1.1" 301 0
+INFO 2024-12-28 18:04:00,921 basehttp "GET /aplicatie_exemplu/restricted/ HTTP/1.1" 302 0
+WARNING 2024-12-28 18:04:00,928 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:04:00,930 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+INFO 2024-12-28 18:04:49,702 basehttp "GET /aplicatie_exemplu/logout/ HTTP/1.1" 302 0
+INFO 2024-12-28 18:04:49,707 basehttp "GET /aplicatie_exemplu/login/ HTTP/1.1" 200 1034
+INFO 2024-12-28 18:04:58,133 basehttp "GET /admin/aplicatie_exemplu/customuser/10/change/ HTTP/1.1" 200 29550
+INFO 2024-12-28 18:04:58,197 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 18:05:03,714 basehttp "POST /admin/aplicatie_exemplu/customuser/10/change/ HTTP/1.1" 302 0
+INFO 2024-12-28 18:05:03,771 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11800
+INFO 2024-12-28 18:05:03,842 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 18:05:17,004 views Utilizatorul test s-a autentificat cu succes.
+INFO 2024-12-28 18:05:17,007 basehttp "POST /aplicatie_exemplu/login/ HTTP/1.1" 302 0
+INFO 2024-12-28 18:05:17,166 basehttp "GET /aplicatie_exemplu/profile/ HTTP/1.1" 200 571
+INFO 2024-12-28 18:05:25,559 basehttp "GET /aplicatie_exemplu/restricted/ HTTP/1.1" 200 257
+INFO 2024-12-28 18:05:30,648 basehttp "GET /admin/aplicatie_exemplu/customuser/10/change/ HTTP/1.1" 200 29558
+INFO 2024-12-28 18:05:30,713 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 18:05:35,628 basehttp "POST /admin/aplicatie_exemplu/customuser/10/change/ HTTP/1.1" 302 0
+INFO 2024-12-28 18:05:35,695 basehttp "GET /admin/aplicatie_exemplu/customuser/ HTTP/1.1" 200 11800
+INFO 2024-12-28 18:05:35,768 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-12-28 18:05:38,250 basehttp "GET /aplicatie_exemplu/restricted/ HTTP/1.1" 302 0
+WARNING 2024-12-28 18:05:38,256 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:05:38,259 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+INFO 2024-12-28 18:06:05,158 basehttp "GET /aplicatie_exemplu/logout/ HTTP/1.1" 302 0
+INFO 2024-12-28 18:06:05,164 basehttp "GET /aplicatie_exemplu/login/ HTTP/1.1" 200 1034
+INFO 2024-12-28 18:06:10,747 basehttp "GET /aplicatie_exemplu/restricted/ HTTP/1.1" 302 0
+WARNING 2024-12-28 18:06:10,754 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:06:10,754 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+INFO 2024-12-28 18:08:38,134 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 18:08:38,845 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 18:08:53,274 autoreload D:\DAWDJ\test1\aplicatie_exemplu\views.py changed, reloading.
+INFO 2024-12-28 18:08:54,003 autoreload Watching for file changes with StatReloader
+WARNING 2024-12-28 18:09:06,123 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:09:06,123 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+INFO 2024-12-28 18:09:19,647 basehttp "GET /aplicatie_exemplu/restricted/ HTTP/1.1" 302 0
+WARNING 2024-12-28 18:09:19,653 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:09:19,654 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+INFO 2024-12-28 18:09:44,395 autoreload D:\DAWDJ\test1\test1\settings.py changed, reloading.
+INFO 2024-12-28 18:11:31,224 autoreload Watching for file changes with StatReloader
+INFO 2024-12-28 18:11:34,883 basehttp "GET /aplicatie_exemplu/login HTTP/1.1" 301 0
+INFO 2024-12-28 18:11:34,908 basehttp "GET /aplicatie_exemplu/login/ HTTP/1.1" 200 1034
+INFO 2024-12-28 18:11:40,974 basehttp "GET /aplicatie_exemplu/restricted/ HTTP/1.1" 302 0
+WARNING 2024-12-28 18:11:40,981 log Not Found: /accounts/login/
+WARNING 2024-12-28 18:11:40,981 basehttp "GET /accounts/login/?next=/aplicatie_exemplu/restricted/ HTTP/1.1" 404 2416
+INFO 2024-12-28 18:11:50,007 autoreload D:\DAWDJ\test1\test1\settings.py changed, reloading.
